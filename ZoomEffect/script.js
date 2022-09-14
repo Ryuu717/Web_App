@@ -1,7 +1,3 @@
-
-
-
-
 const container = document.getElementById("container");
 const img = document.querySelector("img");
 

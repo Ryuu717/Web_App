@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rebeccapurple;
+    background-color: rgb(14, 50, 255);
     color: white;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ body {
 }
 
 .pw-container {
-    background-color: rgb(46, 12, 80);
+    background-color: rgb(12, 32, 80);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     min-width: 400px;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .pw {
-    background-color: rgb(69, 28, 109);
+    background-color: rgb(28, 32, 109);
     display: flex;
     font-size: 1.5rem;
     align-items: center;
@@ -40,7 +40,7 @@ body {
 .pw button {
     background-color: white;
     border: none;
-    color: rgb(29, 2, 56);
+    color: rgb(4, 2, 56);
     cursor: pointer;
     font-family: inherit;
     font-weight: bold;
@@ -72,7 +72,7 @@ body {
 .generate {
     background-color: #ecb602;
     border: none;
-    color: rebeccapurple;
+    color: rgb(51, 70, 153);
     cursor: pointer;
     display: block;
     font-size: 1.5rem;

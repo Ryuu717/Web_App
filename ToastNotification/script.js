@@ -9,7 +9,7 @@ function createNotification(){
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
-    notif.innerText = "This challenge is crazy!";
+    notif.innerText = "Happy Birthday!!";
 
     container.appendChild(notif);
 

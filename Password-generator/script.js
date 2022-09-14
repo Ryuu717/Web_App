@@ -80,8 +80,11 @@ function generateX() {
     return xs[Math.floor(Math.random() * xs.length)];
 }
 
+
+// generate password
 generateEl.addEventListener("click", generatePassword);
 
+// copy password
 copyEl.addEventListener("click", () => {
     const textarea = document.createElement("textarea");
     const password = pwEl.innerText;
